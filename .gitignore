@@ -1,0 +1,38 @@
+# Archive files (should not be in repo - use releases instead)
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Large binary files
+*.pptx
+*.ppt
+*.docx
+*.doc
+*.xlsx
+*.xls
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+
+# Node modules (if added later)
+node_modules/
+
+# Build outputs
+dist/
+build/
